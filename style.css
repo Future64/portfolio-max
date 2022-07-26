@@ -754,7 +754,7 @@ h1 {
 
 @media screen and (max-width: 1400px) {
   .grille-skill {
-    grid-template: repeat(3, 80px) / repeat(2, 450px);
+    grid-template: repeat(10, 80px) / repeat(2, 450px);
   }
   .barre-grises {
     width: 450px;
@@ -769,7 +769,7 @@ h1 {
     padding-left: 0;
   }
   .grille-skill {
-    grid-template: repeat(6, 80px) / 600px;
+    grid-template: repeat(10, 80px) / 600px;
     padding-left: 0;
   }
   .barre-grises {
