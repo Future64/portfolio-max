@@ -674,7 +674,7 @@ h1 {
 }
 @media screen and (max-width: 340px) {
   .item {
-    height: 380px;
+    height: 400px;
   }
 }
 /*--------- Section Range -------------- */
